@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/d0ee53af-bb95-4428-8815-ce7055eb45e3)
 
+> Imported from my old account
+
 ![Static Badge](https://img.shields.io/badge/License-GPL--3.0-yellow)
 ![Static Badge](https://img.shields.io/badge/Language-Python-blue)
 ![Static Badge](https://img.shields.io/badge/Status-Ready-Green)
@@ -12,4 +14,3 @@ You need to parse the timestamp information into one column following timedate f
 
 ### Installation
 Easy peasy! Just copy the code into a Jupyter Notebook cell and run!
-![howto](https://github.com/user-attachments/assets/a234c9cc-ed33-484f-8d07-b37662ad9b61)
